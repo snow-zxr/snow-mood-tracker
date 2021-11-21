@@ -5,3 +5,9 @@
     </button>
   </div>
 </nav>
+
+<style>
+  a{
+    font-family: 'MV Boli';
+  }
+</style>
