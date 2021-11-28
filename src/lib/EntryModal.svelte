@@ -36,7 +36,7 @@ let emojiList = {
 				</div>
 				<div class="col">
 				<form class="form-floating">
-					<input type="number" class="form-control" id="yearInput" value="1" min="2021" max="" />
+					<input type="number" class="form-control" id="yearInput" value="2021" min="2021" />
 					<label for="yearInput">Year</label>
 				</form>
 				</div>
