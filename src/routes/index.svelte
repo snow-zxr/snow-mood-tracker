@@ -1,6 +1,7 @@
 <script>
 import Greeting from '$lib/Greeting.svelte';
 import Entry from '$lib/Entry.svelte';
+import EntryModal from '$lib/EntryModal.svelte';
 </script>
 
 <Greeting />
@@ -18,3 +19,5 @@ import Entry from '$lib/Entry.svelte';
         
     </div>
 </section>
+
+<EntryModal />
