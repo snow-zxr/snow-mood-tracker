@@ -1,7 +1,7 @@
 <script>
-    export let date; // 1-1-2021
-    export let mood; // Best
-    export let comment; // Comments on medication, activities, etc.
+    export let date;
+    export let mood;
+    export let comment;
 </script>
 
 <button type="button" class="list-group-item list-group-item-action">
