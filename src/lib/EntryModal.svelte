@@ -143,7 +143,7 @@ async function saveEntry() {
 			</div>
 			<!-- Comments -->
 			<div class="form-floating">
-				<textarea class="form-control" id="comment bind:value={comment}" />
+				<textarea class="form-control" id="comment" bind:value={comment} />
 				<label for="commentTextarea">Comments</label>
 			</div>
 		</div>
